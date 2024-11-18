@@ -1,1 +1,1 @@
-In the python file, please click on the google collab link to view the full project as that is what was used for the class this project was made for. 
+The project report can be found here: https://docs.google.com/document/d/1VccGgNcrW-dAWci65aix6IXgH85UNyGGtA3HgsEfZ9Q/edit?usp=sharing
